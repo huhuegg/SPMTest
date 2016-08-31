@@ -1,4 +1,4 @@
-struct SPMTest {
+public struct SPMTest {
 
-    var text = "Hello, World!"
+    public var text = "Hello, World!"
 }
