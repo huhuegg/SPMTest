@@ -11,5 +11,5 @@ struct SPMStructTest {
 }
 
 public struct SPMPublicStructTest {
-    var text = "SPMPublicStructTest"
+    public var text = "SPMPublicStructTest"
 }
