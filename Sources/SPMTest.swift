@@ -2,12 +2,12 @@ public class SPMPublicTest {
     public var text = "SPMPublicTest"
 }
 
-class SPMTest {
-    var text = "SPMTest"
+internal class SPMTest {
+    internal var text = "SPMTest"
 }
 
-struct SPMStructTest {
-    var text = "SPMStructTest"
+internal struct SPMStructTest {
+    internal var text = "SPMStructTest"
 }
 
 public struct SPMPublicStructTest {
