@@ -1,15 +1,13 @@
 public class SPMPublicTest {
     public var text = "SPMPublicTest"
-}
-
-internal class SPMTest {
-    internal var text = "SPMTest"
-}
-
-internal struct SPMStructTest {
-    internal var text = "SPMStructTest"
+	public init(text:String) {
+		self.text = text
+	}
 }
 
 public struct SPMPublicStructTest {
     public var text = "SPMPublicStructTest"
+	public init(text:String) {
+		self.text = text
+	}
 }
